@@ -1,0 +1,10 @@
+{
+    "login": "Login",
+    "email" : "Email",
+    "emailError" : "Email is required",
+    "invalidEmail" : "Please enter a valid email",
+    "password" : "Password",
+    "passwordError": "Password is required",
+    "invalidPassword": "Password must be 6 characters",
+    "forgotPassword" : "Forgot Password?"
+}
